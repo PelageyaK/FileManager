@@ -1,12 +1,5 @@
 #pragma once
-#include <iostream>
-#include <string>
-#include <vector>
-#include <fstream>
-#include <filesystem>
-#include "Windows.h"
 #include "File.h"
-#include "FileSysObject.h"
 
 namespace fs = std::filesystem;
 

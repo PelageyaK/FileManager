@@ -1,13 +1,6 @@
 #pragma once
 #include <algorithm>
-#include <iostream>
-#include <string>
-#include <vector>
-#include <fstream>
-#include <filesystem>
 #include <regex>
-#include "Windows.h"
-#include "File.h"
 #include "Folder.h"
 
 namespace fs = std::filesystem;

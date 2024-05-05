@@ -137,7 +137,6 @@
   <ItemGroup>
     <ClCompile Include="File.cpp" />
     <ClCompile Include="FileManager.cpp" />
-    <ClCompile Include="Folder.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
